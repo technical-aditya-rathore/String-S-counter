@@ -9,6 +9,7 @@ The program allows user input, processes the string using core Java logic, and p
 JUnit/TestNG tests are included to verify correctness.
 
  Features
+ ----------------------------------------------------------------------------------------------------------------------
 
 Accepts string and substring from user input
 
@@ -21,6 +22,7 @@ Modular static methods for clean logic
 Unit testing using TestNG + JUnit
 
  Core Logic
+ -----------------------------------------------------------------------------------------------------------------------
 
 Iterates through the main string
 
@@ -29,6 +31,7 @@ Uses substring() comparison
 Skips already matched segments to avoid overlap
 
  Project Structure
+ -----------------------------------------------------------------------------------------------------------------------
 Project1
  └── src
      └── Start
@@ -36,6 +39,7 @@ Project1
          └── StringEqualTest.java
 
  How to Run
+ -----------------------------------------------------------------------------------------------------------------------
 
 Open the project in IntelliJ IDEA / Eclipse
 
@@ -64,6 +68,7 @@ Java
 Scanner (input handling)
 
 TestNG & JUnit
+-------------------------------------------------------------------------------------------------------------------
 
  Author
 
