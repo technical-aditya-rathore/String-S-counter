@@ -33,10 +33,15 @@ Skips already matched segments to avoid overlap
  Project Structure
  -----------------------------------------------------------------------------------------------------------------------
 Project1
+
  └── src
-     └── Start
-         ├── Task1.java
-         └── StringEqualTest.java
+ 
+ └── Start
+     
+ ├── Task1.java
+         
+ └── StringEqualTest.java
+         
 
  How to Run
  -----------------------------------------------------------------------------------------------------------------------
